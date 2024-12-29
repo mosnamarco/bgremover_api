@@ -1,0 +1,9 @@
+# virtual environments
+venv/
+win-venv/
+
+# cache
+__pycache__/
+
+# output
+*output*
